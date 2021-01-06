@@ -2,16 +2,14 @@
 
 ## Desenvolvedora Mobile | Aspirante a Palestrante
 
- Brasileira com experiência no mercado de Tecnologia desenvolvendo aplicações Mobile e Front End.
- Atualmente estudando Desenvolvimento Mobile para Android Nativo com Java, para buscar recolocação no mercado de trabalho.
+ Sou um Programador Android nascido criado e atualmente morando em Macapá - AP. Sou Apaixonado por tecnologia tenho formação como técnico de redes de computadores e atualmente estou cursando ciência da computação na UNIFAP. Já atuei em suporte técnico, analise de redes e hoje estou encarando o desafio de ser programador. Hoje me dedico ao desenvolvimento de aplicativos Android em Kotlin(anteriormente em Java). Amo de coração as plataformas da google e por isso escolhi me aprofundar no desenvolvimento para o Android OS. No momento estou a procura de vagas para desenvolvedor Junior ou estagio em qualquer ramo de desenvolvimento.
 
 **Línguas** 
 
-Inglês (fluente) |
-Espanhol (intermediário) |
+Inglês (Avançado) |
 Português (nativo) 
 
 
 Para acessar o portfólio online entre no seguinte link:
 
-### **https://laura-oliveira.github.io/** 
+### **https://anthoniip.github.io/** 
