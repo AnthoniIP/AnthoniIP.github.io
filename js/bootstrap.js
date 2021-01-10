@@ -571,6 +571,9 @@ if (typeof jQuery === 'undefined') {
     var hasWidth = this.$element.hasClass('width')
     return hasWidth ? 'width' : 'height'
   }
+  $('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+});
 
   Collapse.prototype.show = function () {
     if (this.transitioning || this.$element.hasClass('in')) return
