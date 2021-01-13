@@ -108,12 +108,7 @@
         width: 100%;
         margin: 25px;
     }
-    .contact-2
-    {
-        width: 100%;
-        margin: 0px;
-       
-    }
+    
     /* ============================   END PRESENTATION SECTION   =========================== */
 
 
@@ -166,6 +161,7 @@
         color: white;
         padding-bottom: 4%;
         font-size: 14pt;
+
     }
 
     .card_service
@@ -175,7 +171,6 @@
         width: 300px;
         height: 200px;
         margin-top: 5%;
-        padding-top: 5%;
         background-color: #D81B60;
     }
 
@@ -185,6 +180,8 @@
         width: 100%;
         text-align: center;
         padding-left: 5%;
+     
+       
     }
     
     #skills_list div 
@@ -196,6 +193,7 @@
         padding: 14px 16px;
         text-decoration: none;
         font-size: 17px;
+        position: relative;
     }
 
     .img_skills
@@ -219,11 +217,10 @@
 
     #skills_list div a
     {
-        float: left;
+        
         display: block;
         color: #f2f2f2;
         text-align: center;
-        padding: 14px 16px;
         text-decoration: none;
         font-size: 17px;
     }
