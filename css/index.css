@@ -2,7 +2,7 @@
 (min-width: 600px), (min-width:801px),
 (min-width: 1080px),(min-width: 1920px), (min-width:2340px)
 {
-    body
+    html,body
     {
         background: linear-gradient(-0.2turn,#200764,#3c0e91);
         margin: 0;
