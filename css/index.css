@@ -7,6 +7,7 @@
         background: linear-gradient(-0.2turn,#200764,#3c0e91);
         margin: 0;
         padding-top: 0;
+        overflow-x: hidden;
     
     }
 
